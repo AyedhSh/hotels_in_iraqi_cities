@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require_relative '../lib/hotels_in_iraqi_cities.rb'
+
